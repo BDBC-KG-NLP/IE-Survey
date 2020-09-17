@@ -1,5 +1,5 @@
 
-# IE-Survey 更新中。。。敬请期待
+# IE-Survey 
 
 ![](https://img.shields.io/github/last-commit/BDBC-KG-NLP/IE-Survey?color=blue)
 
