@@ -1,4 +1,3 @@
-
 # IE-Survey 
 
 ![](https://img.shields.io/github/last-commit/BDBC-KG-NLP/IE-Survey?color=blue)
@@ -12,22 +11,30 @@
 - 关系抽取：三元组(triple)抽取,即(Subject, Predication, Object)，主要用于抽取实体间的关系
 - 属性抽取：相当于一种多元关系的抽取
 
-
+- 事件抽取：
 
 希望能为自然语言处理信息抽取领域的相关学者和研究人员提供帮助。本survey将保持定期持续更新、持续跟踪前沿技术，如有不足请大家批评指正，欢迎各位信息抽取研究者取用，也欢迎大家共同完善此调研。
 
 ## 版本更新
+
 Version 1.0：2020年10月30日
 
+Version 2.0:   2022年4月19日
+
 ## 致谢
+
 特此感谢支持数据公开与系统研发工作的北航高精尖中心及参与这项工作的各位团队成员：
 
-[孙凯](https://github.com/sunkaikai)、[胡志元](https://github.com/zhiyuanhubj)、[张紫娴](https://github.com/zzx1997zzx)、[杨凤涛](https://github.com/Johnathan-Y)
+[孙凯](https://github.com/sunkaikai)、[谢昊霖]()、[胡志元](https://github.com/zhiyuanhubj)、[刘奥]()、[鲁重钢]()、[杨凤涛](https://github.com/Johnathan-Y)、[俞马骏](https://github.com/deathpooool)、[张存旺]()、[张紫娴](https://github.com/zzx1997zzx)
+
+
 
 ## 参与贡献方式
+
 欢迎pull requests。对于较大的更改，请先开issue以讨论您要更改的内容。
 
 ## 关于我们
+
 [北京市大数据科学与脑机智能高精尖创新中心](http://bdbc.buaa.edu.cn/?lang=zh)
 
 ## English version will come soon
