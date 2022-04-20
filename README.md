@@ -25,7 +25,7 @@ Version 2.0：2022年4月19日
 
 特此感谢支持数据公开与系统研发工作的北航高精尖中心及参与这项工作的各位团队成员：
 
-[孙凯](https://github.com/sunkaikai)、[谢昊霖]()、[胡志元](https://github.com/zhiyuanhubj)、[刘奥]()、[鲁重钢]()、[杨凤涛](https://github.com/Johnathan-Y)、[俞马骏](https://github.com/deathpooool)、[张存旺](https://github.com/PierreZhangcw)、[张紫娴](https://github.com/zzx1997zzx)
+[孙凯](https://github.com/sunkaikai)、[谢昊霖]()、[胡志元](https://github.com/zhiyuanhubj)、[刘奥]()、[鲁重钢](https://github.com/BurgerBurgerBurger)、[杨凤涛](https://github.com/Johnathan-Y)、[俞马骏](https://github.com/deathpooool)、[张存旺](https://github.com/PierreZhangcw)、[张紫娴](https://github.com/zzx1997zzx)
 
 
 
