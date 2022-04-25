@@ -2,18 +2,16 @@
 
 ![](https://img.shields.io/github/last-commit/BDBC-KG-NLP/IE-Survey?color=blue)
 
-信息抽取（information extraction），即从自然语言文本中，抽取出特定的事件或事实信息，帮助我们将海量内容自动分类、提取和重构。这些信息通常包括实体（entity）、关系（relation）、事件（event）。例如从新闻中抽取时间、地点、关键人物，或者从技术文档中抽取产品名称、开发时间、性能指标等。
-由于能从自然语言中抽取出信息框架和用户感兴趣的事实信息，无论是在知识图谱、信息检索、问答系统还是在情感分析、文本挖掘中，信息抽取都有广泛应用。
+信息抽取（information extraction），即从自然语言文本中，抽取出特定的事件或事实信息，帮助我们将海量内容自动分类、提取和重构。这些信息通常包括实体（entity）、关系（relation）、事件（event）。例如从新闻中抽取时间、地点、关键人物，或者从技术文档中抽取产品名称、开发时间、性能指标等。由于能从自然语言中抽取出信息框架和用户感兴趣的事实信息，无论是在知识图谱、信息检索、问答系统还是在情感分析、文本挖掘中，信息抽取都有广泛应用。
 
-本次信息抽取领域学术界/工业界调研主要包括以下三个子任务：
+本次信息抽取领域学术界/工业界总结主要包括以下四个子任务：
 
 - 实体抽取与链指：即命名实体识别
 - 关系抽取：三元组(triple)抽取,即(Subject, Predication, Object)，主要用于抽取实体间的关系
 - 属性抽取：相当于一种多元关系的抽取
-
 - 事件抽取：
 
-希望能为自然语言处理信息抽取领域的相关学者和研究人员提供帮助。本survey将保持定期持续更新、持续跟踪前沿技术，如有不足请大家批评指正，欢迎各位信息抽取研究者取用，也欢迎大家共同完善此调研。
+希望能为自然语言处理信息抽取领域的相关学者和研究人员提供帮助。该工作将保持定期持续更新、持续跟踪前沿技术，如有不足请大家批评指正，欢迎各位信息抽取研究者取用，也欢迎大家共同完善此调研。
 
 ## 版本更新
 
@@ -25,7 +23,7 @@ Version 2.0：2022年4月19日
 
 特此感谢支持数据公开与系统研发工作的北航高精尖中心及参与这项工作的各位团队成员：
 
-[孙凯](https://github.com/sunkaikai)、[谢昊霖]()、[胡志元](https://github.com/zhiyuanhubj)、[刘奥]()、[鲁重钢](https://github.com/BurgerBurgerBurger)、[杨凤涛](https://github.com/Johnathan-Y)、[俞马骏](https://github.com/deathpooool)、[张存旺](https://github.com/PierreZhangcw)、[张紫娴](https://github.com/zzx1997zzx)
+[俞马骏](https://github.com/deathpooool)、[胡志元](https://zhiyuanhubj.github.io/zhiyuan.github.io/)、[谢昊霖]()、[张存旺](https://github.com/PierreZhangcw)、[刘奥]()、[鲁重钢](https://github.com/BurgerBurgerBurger)、[杨凤涛](https://github.com/Johnathan-Y)、、[张紫娴](https://github.com/zzx1997zzx)、[孙凯](https://github.com/sunkaikai)、
 
 
 
